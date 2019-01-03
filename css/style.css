@@ -1,19 +1,19 @@
 #header{
     
-    min-height: 80px;
+    min-height: 8rem;
     width: 100%;
     display: flex;
     flex-flow: wrap-reverse;
-    border: 0px red solid;
-    padding: 5px;
-    margin: 0px;
-    max-width: 1000px; 
+    border: 0rem red solid;
+    padding: 0.5rem;
+    margin: 0rem;
+    max-width: 100rem; 
     flex-direction: row;
     justify-content: space-between;
 }
 div{
     display: flex;
-    margin:0px;
+    margin:0rem;
     padding: 0p;
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -21,8 +21,8 @@ div{
 
 
 .global{
-    padding:0px;
-    margin: 0px;
+    padding:0rem;
+    margin: 0rem;
     width: 100%;
     flex-direction: column;
     background-image: url(../img/back.png);
@@ -33,42 +33,43 @@ div{
 }
 
 body{
-    margin: 0px;
-    padding: 0px;
+    margin: 0rem;
+    padding: 0rem;
     display: flex;
 }
 #logoImage{
     width: auto;
     height: auto;
     display: block;
-    height: 80px;
+    height: 8rem;
     max-height: 100%;
-    box-shadow: 0px 1px 2px 1px #999999;
-    margin: 2px;
+    box-shadow: 0rem 0.1rem 0.2rem 0.1rem #999999;
+    margin: 0.2rem;
 }
 
 .menu{
-    padding: 0px;
-    margin: 0px;
-    min-height: 0px;
+    padding: 0rem;
+    margin: 0rem;
+    min-height: 0rem;
    /* width: auto;*/
     display: inline-flex;
     flex-direction: row;
     flex-wrap: wrap;
-    border: 0px green solid;
+    border: 0rem green solid;
     align-self: flex-end;
 }
 .menu .item{
-    border:blue 0px solid;
-    width: 100px;
-    height: 30px;
-    min-height: 30px;
-    margin: 2px; 
+    border:blue 0rem solid;
+    width: 10rem;
+    min-width: 10rem;
+    height: 3rem;
+    min-height: 3rem;
+    margin: 0.2rem; 
     
     background-color: #FFFFFF;
     align-items: center;
     justify-content: center;
-    box-shadow: 0px 1px 2px 1px #999999;
+    box-shadow: 0rem 0.1rem 0.2rem 0.1rem #999999;
 }
 
 
@@ -81,34 +82,32 @@ a{
 
 #container{
     width:100%;
-    max-width: 1000px;
+    max-width: 100rem;
     flex-direction: column;
-    padding: 2px;
+    padding: 0.2rem;
     align-items: stretch;
 }
 
 .etage{
-    margin: 2px;
-    margin-top: 10px;
+    margin: 0.2rem;
+    margin-top: 1rem;
     background-color: white;
-    padding: 5px;
-    box-shadow: 0px 1px 2px 1px #999999;
+    padding: 0.5rem;
+    box-shadow: 0rem 0.1rem 0.2rem 0.1rem #999999;
 }
 
 #boxes{
-    margin: 2px;
-    margin-top: 10px;
-    padding: 2px;
+    margin: 0.2rem;
+    margin-top: 1rem;
+    padding: 0.2rem;
     justify-content: space-around;
     flex-wrap: wrap;
 }
 .box{
     margin: 10px;
-    background-color: white;
     box-shadow: 0px 1px 2px 1px #999999;
-    width: 200px;
-    height: 180px;
 }
+
 img.button{
     max-width: 100%;
     object-fit:contain;
@@ -116,16 +115,16 @@ img.button{
 }
 .textBlock{
     flex-direction: column;
-    margin: 5px;
+    margin: 0.5rem;
 }
 .textBlock p{
-    margin-block-end: 3px;
-    margin-block-start: 0px;
+    margin-block-end: 0.3rem;
+    margin-block-start: 0rem;
     font-size: 1.2em;
 }
 
 .imgBlock{
-    width: 300px;
+    width: 30rem;
     position: relative;
 }
 .imgBlock img{
@@ -140,8 +139,8 @@ img.button{
     margin: auto;
 }
 
-@media screen and (max-width:1000px){
+@media screen and (max-width:1000rem){
     #header{
-/*        max-width: 200px;*/
+/*        max-width: 200rem;*/
     }
 }
