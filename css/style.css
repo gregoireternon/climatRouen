@@ -120,16 +120,21 @@ img.button{
 .textBlock{
     flex-direction: column;
     margin: 0.5rem;
+    flex-basis: 30rem;
+    flex-grow: 10;
 }
 .textBlock p{
     margin-block-end: 0.3rem;
     margin-block-start: 0rem;
     font-size: 1.2em;
+    
 }
 
 .imgBlock{
     width: 30rem;
     position: relative;
+    flex-basis: 30rem;
+    flex-grow: 10;
 }
 .imgBlock img{
     position: absolute;
