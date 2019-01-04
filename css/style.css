@@ -82,10 +82,11 @@ a{
 
 #container{
     width:100%;
-    max-width: 100rem;
+    max-width: 80rem;
     flex-direction: column;
     padding: 0.2rem;
     align-items: stretch;
+    display: none;
 }
 
 .etage{
@@ -142,8 +143,8 @@ img.button{
     margin: auto;
 }
 
-@media screen and (max-width:1000rem){
-    #header{
-/*        max-width: 200rem;*/
-    }
+@media screen and (min-width:50rem){
+   /* .etage div{
+        max-width: 50%;
+    }*/
 }
