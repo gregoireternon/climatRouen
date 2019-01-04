@@ -24,4 +24,12 @@ $(document).ready(function(){
              $(location).attr('hash','evenements');
          });
     });
+    $('#contactLink').on('click',function(){
+        $.ajax({
+            url: 'contact.html'
+         }).done(function(d){
+             $('#container').hide().html(d).fadeIn(1000);
+             $(location).attr('hash','contact');
+         });
+    });
 });
