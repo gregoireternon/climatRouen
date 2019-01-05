@@ -9,9 +9,17 @@
     </header>
     <body>
     <?php
-        $myfile = fopen("logfile.txt", "a");
-        fwrite($myfile, date("Y/m/d h:i:sa")." [".$_SERVER['REMOTE_ADDR']."]\n");
-        fclose($myfile);
+        if (!$fp2 = fopen("logfile.txt","a+")) {
+            echo "Echec de l'ouverture du fichier";
+        }
+        else {
+            fputs($fp2,date("d/m/Y G:i:s "));
+            fputs($fp2,$_SERVER['REMOTE_ADDR']);
+            fputs($fp2," ");
+            fputs($fp2,$_SERVER['HTTP_USER_AGENT']);
+            fputs($fp2,"\n");
+            fclose($fp2);
+        }
     ?>
         <div class="global">
             <div id="header">
