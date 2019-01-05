@@ -8,6 +8,11 @@
         
     </header>
     <body>
+    <?php
+        $myfile = fopen("logfile.txt", "a");
+        fwrite($myfile, date("Y/m/d h:i:sa")." [".$_SERVER['REMOTE_ADDR']."]\n");
+        fclose($myfile);
+    ?>
         <div class="global">
             <div id="header">
                 <div class="menu">
