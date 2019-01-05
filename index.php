@@ -24,16 +24,17 @@
         <div class="global">
             <div id="header">
                 <div class="menu">
+                    <div class="item" ><a href="index.php">Accueil</a></div>
                     <div class="item" id="evenementLink"><a href="#">Ev&eacute;nements</a></div>
-                    <div class="item"><a href="#">Liens</a></div>
+                    <div class="item" id="liensLink"><a href="#">Liens</a></div>
                     <div class="item" id="contactLink"><a href="#">Contact</a></div>
                 </div>
                 <img id="logoImage"  src="img/citoyenClimatRouen.png" width="709" height="709">
             </div>
             <div id="container">
                 <div id="boxes">
-                    <div class="box"><img src="img/events.PNG" class="button"></div>
-                    <div class="box"><img src="img/links.PNG"  class="button"></div>
+                    <div class="box" id="evenementLink2"><img src="img/events.PNG" class="button"></div>
+                    <div class="box" id="liensLink2"><img src="img/links.PNG"  class="button"></div>
                     <div class="box"><a href="https://www.facebook.com/groups/271172083511190/"><img src="img/facebook.PNG"  class="button"></a></div>
                 </div>
                 <div id="etage1" class="etage">

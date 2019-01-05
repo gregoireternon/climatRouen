@@ -1,6 +1,27 @@
+
+function goFunc(wh){
+    $.ajax({
+        url: wh+'.html'
+     }).done(function(d){
+         $('#container').hide().html(d).fadeIn(1000);
+         $(location).attr('hash',wh);
+     });
+};
+
+function eventFunc(){
+    goFunc("evenements");
+};
+function contactFunc(){
+    goFunc("contact");
+};
+function liensFunc(){
+    goFunc("liens");
+};
+
 $(document).ready(function(){
     //alert("toto");
     var hash = $(location).attr('hash').replace('#','');
+    
     
     if(hash){
         $.ajax({
@@ -16,20 +37,14 @@ $(document).ready(function(){
     $('#global').change( function(){
         console.log('resized');
     });
-    $('#evenementLink').on('click',function(){
-        $.ajax({
-            url: 'evenements.html'
-         }).done(function(d){
-             $('#container').hide().html(d).fadeIn(1000);
-             $(location).attr('hash','evenements');
-         });
-    });
-    $('#contactLink').on('click',function(){
-        $.ajax({
-            url: 'contact.html'
-         }).done(function(d){
-             $('#container').hide().html(d).fadeIn(1000);
-             $(location).attr('hash','contact');
-         });
-    });
+    $('#evenementLink').on('click',eventFunc);
+    $('#evenementLink2').on('click',eventFunc);
+    $('#contactLink').on('click',contactFunc);
+    $('#liensLink').on('click',liensFunc);
+    $('#liensLink2').on('click',liensFunc);
+    
 });
+
+
+
+

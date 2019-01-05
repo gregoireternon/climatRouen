@@ -135,6 +135,7 @@ img.button{
     position: relative;
     flex-basis: 30rem;
     flex-grow: 10;
+    min-height: 5rem;
 }
 .imgBlock img{
     position: absolute;
