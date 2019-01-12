@@ -6,7 +6,7 @@
         <script src="js/jquery.js"></script>
         <script src="js/script.js"></script>
         <link rel="stylesheet" type="text/css" href="css/style.css"/>
-        <link rel="shortcut icon" type="image/png" href="http://ilestencuh.cluster021.hosting.ovh.net/img/favicon.ico"/>
+        <link rel="shortcut icon" type="image/png" href="favicon.ico"/>
         
     </head>
     <body>
