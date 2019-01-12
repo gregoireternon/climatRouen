@@ -1,12 +1,13 @@
 <html>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <header>
+    <head>
+        <meta name="msvalidate.01" content="0C6ACD4FD36C72D504C675BB99542608" />
         <script src="js/jquery.js"></script>
         <script src="js/script.js"></script>
         <link rel="stylesheet" type="text/css" href="css/style.css"/>
         <link rel="shortcut icon" type="image/png" href="http://ilestencuh.cluster021.hosting.ovh.net/img/favicon.ico"/>
         
-    </header>
+    </head>
     <body>
     <?php
         if (!$fp2 = fopen("logfile.txt","a+")) {
