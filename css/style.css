@@ -129,6 +129,9 @@ img.button{
     font-size: 1.2em;
     
 }
+.mirageEnd {
+    display:none;
+}
 
 .imgBlock{
     width: 30rem;

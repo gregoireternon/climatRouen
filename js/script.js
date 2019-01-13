@@ -42,7 +42,9 @@ $(document).ready(function(){
     $('.liensLink').on('click',liensFunc);
     
     
-    $('.mirage').delay(3000).fadeOut(500);
+    $('.mirage').delay(3000).fadeOut(500,function(){
+        $('.mirageEnd').show();
+    });
     
 });
 
