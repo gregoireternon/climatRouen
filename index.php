@@ -45,6 +45,19 @@
                         <a href="https://www.facebook.com/events/2272621032790860/"><img src="img/weActionClimat.jpg"></a>
                     </div>
                 </div>
+                <div id="intro2" class="etage">
+                    <div class="textBlock">
+                        <p class="mirageEnd">CLIMAT :
+                            STOP À L’INACTION, DEMANDONS 
+                            JUSTICE ! <a href="https://laffairedusiecle.net/" >Signez ici</a></p>
+                        <h1 class="mirage">CLIMAT :
+                            STOP À L’INACTION, DEMANDONS 
+                            JUSTICE !</h1>
+                        <p class="mirage">Ca y est! la p&eacute;tition a pass&eacute; le cap des 2 000 000 de signatures!</p>
+                        <p class="mirage">Si vous n&apos;avez pas sign&eacute;, c&apos;est <a href="https://laffairedusiecle.net/" >ici</a></p>
+                    </div>
+                    <iframe class="mirage" width="560" height="315" src="https://www.youtube.com/embed/l8j-9mPwehw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </div>
                 <div id="boxes">
                     <div class="box evenementLink" id="evenementLink2"><img src="img/events.PNG" class="button"></div>
                     <div class="box liensLink" id="liensLink2"><img src="img/links.PNG"  class="button"></div>
