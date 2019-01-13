@@ -37,11 +37,12 @@ $(document).ready(function(){
     $('#global').change( function(){
         console.log('resized');
     });
-    $('#evenementLink').on('click',eventFunc);
-    $('#evenementLink2').on('click',eventFunc);
-    $('#contactLink').on('click',contactFunc);
-    $('#liensLink').on('click',liensFunc);
-    $('#liensLink2').on('click',liensFunc);
+    $('.evenementLink').on('click',eventFunc);
+    $('.contactLink').on('click',contactFunc);
+    $('.liensLink').on('click',liensFunc);
+    
+    
+    $('.mirage').delay(3000).fadeOut(500);
     
 });
 

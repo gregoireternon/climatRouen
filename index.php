@@ -27,16 +27,26 @@
             <div id="header">
                 <div class="menu">
                     <div class="item" ><a href="index.php">Accueil</a></div>
-                    <div class="item" id="evenementLink"><a href="#">Ev&eacute;nements</a></div>
-                    <div class="item" id="liensLink"><a href="#">Liens</a></div>
-                    <div class="item" id="contactLink"><a href="#">Contact</a></div>
+                    <div class="item evenementLink" id="evenementLink"><a href="#">Ev&eacute;nements</a></div>
+                    <div class="item liensLink" id="liensLink"><a href="#">Liens</a></div>
+                    <div class="item contactLink" id="contactLink"><a href="#">Contact</a></div>
                 </div>
                 <img id="logoImage"  src="img/citoyenClimatRouen.png" width="709" height="709">
             </div>
             <div id="container">
+                <div id="intro" class="etage">
+                    <div class="textBlock">
+                        <h1>Veill&eacute;e pour le climat le 25 janvier!! <a href="#" class="evenementLink">Plus d&apos;information  ici</a></h1>
+                        <p class="mirage">Notre action pour le weekend action climat est d&eacute;cid&eacute;e, et ce sera une veill&eacute;e, le vendredi 25 &agrave; partir de 18h, au d&eacute;part de la place de la cath&eacute;drale &agrave; Rouen. Venez nombreux!</p>
+                        <a class="mirage" href="https://www.facebook.com/events/2272621032790860/"><p>Les d&eacute;tails l&apos;&eacute;v&eacute;n&eacute;ment sur facebook</p></a>
+                    </div>
+                    <div class="imgBlock mirage" style="min-width: 20rem;min-height: 16.6rem;">
+                        <a href="https://www.facebook.com/events/2272621032790860/"><img src="img/weActionClimat.jpg"></a>
+                    </div>
+                </div>
                 <div id="boxes">
-                    <div class="box" id="evenementLink2"><img src="img/events.PNG" class="button"></div>
-                    <div class="box" id="liensLink2"><img src="img/links.PNG"  class="button"></div>
+                    <div class="box evenementLink" id="evenementLink2"><img src="img/events.PNG" class="button"></div>
+                    <div class="box liensLink" id="liensLink2"><img src="img/links.PNG"  class="button"></div>
                     <div class="box"><a href="https://www.facebook.com/groups/271172083511190/"><img src="img/facebook.PNG"  class="button"></a></div>
                 </div>
                 <div id="etage1" class="etage">
