@@ -1,21 +1,37 @@
 
-function goFunc(wh){
+function goFunc(wh,e){
+    e.preventDefault();
     $.ajax({
-        url: wh+'.html'
+        url: 'partial.'+wh+'.php'
      }).done(function(d){
          $('#container').hide().html(d).fadeIn(1000);
+         bindEvents();
          $(location).attr('hash',wh);
      });
 };
 
-function eventFunc(){
-    goFunc("evenements");
+function eventFunc(e){
+    goFunc("evenements",e);
 };
-function contactFunc(){
-    goFunc("contact");
+function contactFunc(e){
+    goFunc("contact",e);
 };
-function liensFunc(){
-    goFunc("liens");
+function liensFunc(e){
+    goFunc("liens",e);
+};
+function indexFunc(e){
+    goFunc("index",e);
+};
+function bindEvents(){
+    $('.evenementLink, .contactLink, .liensLink, .indexLink').off()
+    $('.evenementLink').on('click',eventFunc);
+    $('.contactLink').on('click',contactFunc);
+    $('.liensLink').on('click',liensFunc);
+    $('.indexLink').on('click',indexFunc);
+    $('.mirage').delay(3000).fadeOut(500,function(){
+        $('.mirageEnd').show();
+    });
+
 };
 
 $(document).ready(function(){
@@ -25,9 +41,10 @@ $(document).ready(function(){
     
     if(hash){
         $.ajax({
-            url: hash+'.html'
+            url: 'partial.'+hash+'.php'
         }).done(function(d){
              $('#container').hide().html(d).fadeIn(1000);
+             bindEvents();
          });
     }else{
         $('#container').fadeIn(1000);
@@ -37,14 +54,9 @@ $(document).ready(function(){
     $('#global').change( function(){
         console.log('resized');
     });
-    $('.evenementLink').on('click',eventFunc);
-    $('.contactLink').on('click',contactFunc);
-    $('.liensLink').on('click',liensFunc);
+    bindEvents();
     
     
-    $('.mirage').delay(3000).fadeOut(500,function(){
-        $('.mirageEnd').show();
-    });
     
 });
 
