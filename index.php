@@ -36,9 +36,9 @@
             <div id="container">
                 <div id="intro" class="etage">
                     <div class="textBlock">
-                        <p class="mirageEnd">Veill&eacute;e pour le climat le 25 janvier!! <a href="#" class="evenementLink">Plus d&apos;information  ici</a></p>
-                        <h1 class="mirage">Veill&eacute;e pour le climat le 25 janvier!!</h1>
-                        <p class="mirage">Notre action pour le weekend action climat est d&eacute;cid&eacute;e, et ce sera une veill&eacute;e, le vendredi 25 &agrave; partir de 18h, au d&eacute;part de la place de la cath&eacute;drale &agrave; Rouen. Venez nombreux!</p>
+                        <p class="mirageEnd">Marche du soir pour le climat le 25 janvier!! <a href="#" class="evenementLink">Plus d&apos;information  ici</a></p>
+                        <h1 class="mirage">Marche du soir pour le climat le 25 janvier!!</h1>
+                        <p class="mirage">Notre action pour le weekend action climat est d&eacute;cid&eacute;e, et ce sera une marche en soir&eacute;e, le vendredi 25 &agrave; partir de 18h, au d&eacute;part de la place de la cath&eacute;drale &agrave; Rouen. Venez nombreux!</p>
                         <a class="mirage" href="https://www.facebook.com/events/2272621032790860/"><p>Les d&eacute;tails l&apos;&eacute;v&eacute;n&eacute;ment sur facebook</p></a>
                     </div>
                     <div class="imgBlock mirage" style="min-width: 20rem;min-height: 16.6rem;">
