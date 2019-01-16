@@ -8,7 +8,7 @@
         <script src="js/script.js"></script>
         <link rel="stylesheet" type="text/css" href="css/style.css"/>
         <link rel="shortcut icon" type="image/png" href="favicon.ico"/>
-        
+        <title>Citoyen Pour Le Climat - Rouen</title>
     </head>
     <body>
     <?php
