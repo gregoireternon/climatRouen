@@ -9,7 +9,7 @@
         <link rel="stylesheet" type="text/css" href="css/style.css"/>
         <link rel="shortcut icon" type="image/png" href="favicon.ico"/>
         <link rel="canonical" href="https://ilestencoretemps.org/rouen/" />
-        <title>Citoyen Pour Le Climat - Rouen</title>
+        <title>Collectif Citoyen Pour Le Climat - Rouen</title>
             
     </head>
     <body>
