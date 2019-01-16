@@ -3,6 +3,7 @@
     <head>
         <meta name="msvalidate.01" content="0C6ACD4FD36C72D504C675BB99542608" />
         <meta name="KEYWORDS" content="climat rouen citoyen collectif"/>
+        <meta name="description" content="Page locale du collectif citoyen pour le climat - Rouen"/>
         <script src="js/jquery.js"></script>
         <script src="js/script.js"></script>
         <link rel="stylesheet" type="text/css" href="css/style.css"/>
