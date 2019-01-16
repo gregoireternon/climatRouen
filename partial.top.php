@@ -1,6 +1,6 @@
 <html>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="msvalidate.01" content="0C6ACD4FD36C72D504C675BB99542608" />
         <meta name="KEYWORDS" content="climat rouen citoyen collectif"/>
         <meta name="description" content="Page locale du collectif citoyen pour le climat - Rouen"/>
@@ -8,7 +8,9 @@
         <script src="js/script.js"></script>
         <link rel="stylesheet" type="text/css" href="css/style.css"/>
         <link rel="shortcut icon" type="image/png" href="favicon.ico"/>
+        <link rel="canonical" href="https://ilestencoretemps.org/rouen/" />
         <title>Citoyen Pour Le Climat - Rouen</title>
+            
     </head>
     <body>
     <?php
