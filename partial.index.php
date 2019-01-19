@@ -1,7 +1,7 @@
 <div id="intro" class="etage">
     <div class="textBlock">
         <p class="mirageEnd">Marche du soir pour le climat le 25 janvier!! <a href="#" class="evenementLink">Plus d&apos;information  ici</a></p>
-        <h1 class="mirage">Marche du soir pour le climat le 25 janvier!!</h1>
+        <h2 class="mirage">Marche du soir pour le climat le 25 janvier!!</h2>
         <p class="mirage">Notre action pour le weekend action climat est d&eacute;cid&eacute;e, et ce sera une marche en soir&eacute;e, le vendredi 25 &agrave; partir de 18h, au d&eacute;part de la place de la cath&eacute;drale &agrave; Rouen. Venez nombreux!</p>
         <a class="mirage" href="https://www.facebook.com/events/2272621032790860/"><p>Les d&eacute;tails l&apos;&eacute;v&eacute;n&eacute;ment sur facebook</p></a>
     </div>
@@ -14,9 +14,9 @@
         <p class="mirageEnd">CLIMAT :
             STOP À L’INACTION, DEMANDONS 
             JUSTICE ! <a href="https://laffairedusiecle.net/" >Signez ici</a></p>
-        <h1 class="mirage">CLIMAT :
+        <h2 class="mirage">CLIMAT :
             STOP À L’INACTION, DEMANDONS 
-            JUSTICE !</h1>
+            JUSTICE !</h2>
         <p class="mirage">Ca y est! la p&eacute;tition a pass&eacute; le cap des 2 000 000 de signatures!</p>
         <p class="mirage">Si vous n&apos;avez pas sign&eacute;, c&apos;est <a href="https://laffairedusiecle.net/" >ici</a></p>
     </div>
@@ -41,9 +41,9 @@
         <img src="img/friday.JPG">
     </div>
     <div class="textBlock">
-        <h1>Que faire ?</h1>
+        <h2>Que faire ?</h2>
         <p>Le climat se r&eacute;chauffe et notre belle plan&egrave;te bleue suffoque sous les d&eacute;chets, l&rsquor;humanit&eacute; est gravement en danger, mais que faire ?</p>
-        <h2>RESISTER !</h2>
+        <h3>RESISTER !</h3>
         <p>R&eacute;sister, c&rsquor;est penser autrement, rire, faire confiance, ETRE plut&ocirc;t qu&rsquor;AVOIR</p>
         <p>R&eacute;sister, c&rsquor;est laisser passer le vent, la lumi&egrave;re, s&rsquor;accorder du temps, &ecirc;tre ensemble, se sentir libre</p>
         <p>R&eacute;sister, c&rsquor;est reprendre le contr&ocirc;le de notre existence</p>
