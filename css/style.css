@@ -86,7 +86,7 @@ a{
     flex-direction: column;
     padding: 0.2rem;
     align-items: stretch;
-    display: none;
+    /*display: none;*/
 }
 
 .etage{
