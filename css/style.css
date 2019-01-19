@@ -55,10 +55,9 @@ body{
     display: inline-flex;
     flex-direction: row;
     flex-wrap: wrap;
-    border: 0rem green solid;
-    align-self: flex-end;
+    justify-content: space-between;
 }
-.menu .item{
+.menu .item, .menuliens .itemlien{
     border:blue 0rem solid;
     width: 10rem;
     min-width: 10rem;
@@ -70,6 +69,15 @@ body{
     align-items: center;
     justify-content: center;
     box-shadow: 0rem 0.1rem 0.2rem 0.1rem #999999;
+}
+.menuliens{
+    padding: 0rem;
+    margin: 0rem;
+    min-height: 0rem;
+    width: 100%;
+    display: inline-flex;
+    flex-direction: row;
+    flex-wrap: wrap;
 }
 
 

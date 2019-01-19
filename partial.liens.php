@@ -1,4 +1,11 @@
-<div id="intro2" class="etage">
+
+<div class="menuliens">
+    <div class="itemlien" natureA="information">S'informer</div>
+    <div class="itemlien" natureA="action">Agir</div>
+    <div class="itemlien" natureA="consommation">Consommer</div>
+</div>
+
+<div id="intro2" class="etage" nature="action">
     <div class="textBlock">
         <h2 ><a href="https://laffairedusiecle.net/" >CLIMAT :
             STOP À L’INACTION, DEMANDONS 
@@ -8,7 +15,7 @@
     </div>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/l8j-9mPwehw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-<div class="etage">
+<div class="etage" nature="information">
     <div class="textBlock">
         <h2><a href="https://www.linfodurable.fr/">L'INFO DURABLE</a></h2>
         <p>Obsolescence programmée: Un
@@ -21,7 +28,7 @@
         <img src="https://www.linfodurable.fr/sites/linfodurable/themes/id1/img/logo_header.svg"/>
     </div>
 </div>
-<div class="etage">
+<div class="etage" nature="information">
     <div class="textBlock">
         <h2><a href="http://www.qqf.fr/"> Qu’est-ce
             qu’on fait?</a></h2>
@@ -36,7 +43,7 @@
         <img src="http://www.qqf.fr/front/images/layout/mini-logo.svg"/>
     </div>
 </div>
-<div class="etage">
+<div class="etage" nature="information action">
     <div class="textBlock">
         <h2><a href="http://www.effetdeserretoimeme.fr/">EFFET DE
             SERRE TOI-MÊME</a></h2>
@@ -61,7 +68,7 @@
         <img src="http://www.effetdeserretoimeme.fr/wp-content/themes/edstm/img/edstm-logo.png"/>
     </div>
 </div>
-<div class="etage">
+<div class="etage" nature="consommation">
     <div class="textBlock">
         <h2><a href="https://monnaie-agnel.fr/">AGNEL</a></h2>
         <p>Liste des
@@ -74,7 +81,7 @@
         <img src="https://monnaie-agnel.fr/wp-content/uploads/2016/11/agnel-05.png"/>
     </div>
 </div>
-<div class="etage">
+<div class="etage" nature="consommation">
     <div class="textBlock">
         <h2><a href="http://anelac.fr/">ANELAC</a></h2>
         <p>Produits certifiés
@@ -87,7 +94,7 @@
         <img src="https://anelac.com/img/anelac-logo-1530200665.jpg"/>
     </div>
 </div>
-<div class="etage">
+<div class="etage" nature="action">
     <div class="textBlock">
         <h2><a href="https://www.metropole-rouen-normandie.fr/files/dechets/guides/guide-dechets-rouen.pdf">GUIDE DE TRI
             DES DECHETS
@@ -100,7 +107,7 @@
         <img src="https://metropole-rouen-normandie.fr/core_web/images/logo-metropole.jpg"/>
     </div>
 </div>
-<div class="etage">
+<div class="etage" nature="consommation">
     <div class="textBlock">
         <h2><a href="http://lebrameducepe.com/">LE BRAME DU
             CÈPE</a></h2>
@@ -112,7 +119,7 @@
         <img src="http://lebrameducepe.com/wp-content/uploads/2017/10/logo_br%C3%A2me_du_c%C3%AApe_long_31082017._4.png"/>
     </div>
 </div>
-<div class="etage">
+<div class="etage" nature="consommation">
     <div class="textBlock">
         <h2><a href="http://biocoop-rouen.fr/">BIOCOOP DU ROUENNAIS</a></h2>
         <p>Restauration
@@ -123,7 +130,7 @@
         <img src="http://biocoop-rouen.fr/wp-content/themes/biocoop/images/bdr.png"/>
     </div>
 </div>
-<div class="etage">
+<div class="etage" nature="consommation">
     <div class="textBlock">
         <h2><a href="http://www.agri-culture.fr/annuaire">ANNUAIRE
             AGRI-CULTURE</a></h2>
@@ -138,7 +145,7 @@
         <img src="http://www.agri-culture.fr/sites/default/files/logo_agri_1.png"/>
     </div>
 </div>
-<div class="etage">
+<div class="etage" nature="information">
     <div class="textBlock">
         <h2><a href="https://transiscope.org/">TRANSISCOPE</a></h2>
         <p>Transiscope met en
@@ -157,7 +164,7 @@
         <img src="https://transiscope.org/wp-content/uploads/2018/09/Transiscope-alt2-blanc-1.svg"/>
     </div>
 </div>
-<div class="etage">
+<div class="etage" nature="action information">
     <div class="textBlock">
         <h2><a href="https://www.cacommenceparmoi.org/">ÇA COMMENCE
             PAR MOI</a></h2>
@@ -174,7 +181,7 @@
         <img src="https://static.wixstatic.com/media/7a4522_f91ff8b85b0e4563835bfe0f3ee2e8be~mv2_d_3432_2476_s_4_2.png/v1/fill/w_244,h_174,al_c,q_80,usm_0.33_1.00_0.00/7a4522_f91ff8b85b0e4563835bfe0f3ee2e8be~mv2_d_3432_2476_s_4_2.webp"/>
     </div>
 </div>
-<div class="etage">
+<div class="etage" nature="action">
     <div class="textBlock">
         <h2><a href="https://www.facebook.com/NOUUUS">NOUS</a></h2>
         <p>« NOUS » est une
@@ -190,7 +197,7 @@
         <img src="img/44076977_192928328266186_5955119335843299328_n.png"/>
     </div>
 </div>
-<div class="etage">
+<div class="etage" nature="consommation action">
     <div class="textBlock">
         <h2><a href="https://zerodechetrouen.wordpress.com/">ZERO DECHET
             ROUEN</a></h2>
@@ -209,7 +216,7 @@
         <img src="https://www.helloasso.com/assets/img/logos/zero-dechet-rouen-57a928a057344846abf466a0e371fc8a.png?bb=0x0x200x200&sb=200x200"/>
     </div>
 </div>
-<div class="etage">
+<div class="etage" nature="consommation">
     <div class="textBlock">
         <h2><a href="https://www.wwf.fr/agir-au-quotidien/we-act-for-good">WE ACT FOR
             GOOD</a></h2>
@@ -228,7 +235,7 @@
         <img src="https://v.fastcdn.co/u/8e3b7632/27740672-0-f8178a92-b587-4974-a.png"/>
     </div>
 </div>
-<div class="etage">
+<div class="etage" nature="information">
         <div class="textBlock">
             <h2><a href="https://www.facebook.com/groups/transition.2030/">TRANSISTION
                 2030</a></h2>
@@ -245,7 +252,7 @@
         </div>
     
 </div>
-<div class="etage">
+<div class="etage" nature="information">
     <div class="textBlock">
             <h2><a href="https://www.wwf.fr/agir-au-quotidien/we-act-for-good">JEAN-MARC
                 JANCOVICI</a></h2>
