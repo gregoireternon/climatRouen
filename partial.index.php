@@ -1,13 +1,10 @@
 <div id="intro" class="etage">
     <div class="textBlock">
-        <p class="mirageEnd">Marche du soir pour le climat le 25 janvier!! <a href="#" class="evenementLink">Plus d&apos;information  ici</a></p>
-        <h2 class="mirage">Marche du soir pour le climat le 25 janvier!!</h2>
-        <p class="mirage">Notre action pour le weekend action climat est d&eacute;cid&eacute;e, et ce sera une marche en soir&eacute;e, le vendredi 25 &agrave; partir de 18h, au d&eacute;part de la place de la cath&eacute;drale &agrave; Rouen. Venez nombreux!</p>
-        <a class="mirage" href="https://www.facebook.com/events/2272621032790860/"><p>Les d&eacute;tails l&apos;&eacute;v&eacute;n&eacute;ment sur facebook</p></a>
+        <h2 >Marche du soir pour le climat le 25 janvier!!</h2>
+        <p >Merci &agrave; tous pour votre participation! C&apos;&eacute;tait magique :-)</p>
+        <a href="https://www.facebook.com/events/2272621032790860/"><p>Les d&eacute;tails l&apos;&eacute;v&eacute;n&eacute;ment sur facebook</p></a>
     </div>
-    <div class="imgBlock mirage" style="min-width: 20rem;min-height: 16.6rem;">
-        <a href="https://www.facebook.com/events/2272621032790860/"><img src="img/weActionClimat.jpg"></a>
-    </div>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/MnZRLoHyseo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <div id="intro2" class="etage">
     <div class="textBlock">
