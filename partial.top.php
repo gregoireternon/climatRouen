@@ -2,7 +2,7 @@
     <head>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="msvalidate.01" content="0C6ACD4FD36C72D504C675BB99542608" />
-        <meta name="KEYWORDS" content="climat rouen citoyen collectif"/>
+        <meta name="KEYWORDS" content="climat rouen citoyen collectif marche"/>
         <meta name="description" content="Page locale du collectif citoyen pour le climat - Rouen. Notre collectif se veut apolitique, apartisan et bienveillant. Notre objectif est d'amplifier la communication et les initiatives prises dans le contexte de lutte contre le réchauffement climatique."/>
         <script src="js/jquery.js" defer></script>
         <script src="js/script.js" defer></script>
