@@ -28,7 +28,7 @@ function bindEvents(){
     $('.contactLink').on('click',contactFunc);
     $('.liensLink').on('click',liensFunc);
     $('.indexLink').on('click',indexFunc);
-    $('.mirage').delay(3000).fadeOut(500,function(){
+    $('.mirage').delay(30000).fadeOut(500,function(){
         $('.mirageEnd').show();
     });
     $('[natureA]').each(function(at){

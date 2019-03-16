@@ -13,7 +13,7 @@
         <p >Ca y est! la p&eacute;tition a pass&eacute; le cap des 2 000 000 de signatures!</p>
         <p >Si vous n&apos;avez pas sign&eacute;, c&apos;est <a href="https://laffairedusiecle.net/" >ici</a></p>
     </div>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/l8j-9mPwehw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/l8j-9mPwehw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <div class="etage" nature="information">
     <div class="textBlock">
@@ -262,6 +262,6 @@
             </p>
                 
     </div>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/2JH6TwaDYW4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/2JH6TwaDYW4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 

@@ -1,14 +1,10 @@
 <div id="intro2" class="etage">
     <div class="textBlock">
-        <p class="mirageEnd">Nouvelle marche organis&eacute;e &agrave; Rouen le 16 mars!!! <a href="https://www.facebook.com/events/2184852025177254/" >Détails ici</a></p>
-        <h2 class="mirage">Nouvelle marche organis&eacute;e &agrave; Rouen le 16 mars!!!</h2>
-        <p class="mirage">C&apos;est reparti: une nouvelle occasion de montrer notre d&eacute;termination dans un contexte familial, ouvert, non violent et festif.</p>
-        <p class="mirage">Venez avec des pancartes, de quoi faire du bruit ou m&ecirc;me d&eacute;guis&eacute;s.</p>
-        <p class="mirage">Plus de d&eacute;tails  <a href="https://www.facebook.com/events/2184852025177254/" >ici</a></p>
+        <h2 >Nous avons &eacute;t&eacute; pr&egrave;s de 3000 participants &agrave; cette magnifique marche festive, non violente et familiale.</h2>
+        <p >Mais nous n&apos;en resterons pas l&agrave;, et d&apos;autres actions sont &agrave; pr&eacute;voir.</p>
+        <p ><a href="https://www.facebook.com/CollectifCitoyenClimatRouen/">Citoyens pour le climat - Rouen</a></p>
     </div>
-    <div class="imgBlock mirage" style="min-width: 20rem;min-height: 45.6rem;">
-        <img src="img/marche16mars.jpg" border: grey 1px solid;/>
-    </div>
+    <iframe  width="560" height="315" src="https://www.youtube-nocookie.com/embed/FUE3UOq8qF0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <div id="boxes">
     <div class="box evenementLink" id="evenementLink2"><a href="evenements.php"><img src="img/events.PNG" class="button"></a></div>
