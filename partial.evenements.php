@@ -1,6 +1,6 @@
 <div id="intro2" class="etage">
     <div class="textBlock">
-        <h2 >Nous avons &eacute;t&eacute; pr&egrave;s de 3000 participants &agrave; cette magnifique marche festive, non violente et familiale.</h2>
+        <h2 >A rouen, nous avons &eacute;t&eacute; pr&egrave;s de 3000 participants &agrave; cette magnifique marche festive, non violente et familiale.</h2>
         <p >Mais nous n&apos;en resterons pas l&agrave;, et d&apos;autres actions sont &agrave; pr&eacute;voir.</p>
         <p >Plus de d&eacute;tails  <a href="https://www.facebook.com/CollectifCitoyenClimatRouen/" >ici</a></p>
     </div>
