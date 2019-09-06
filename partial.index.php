@@ -8,6 +8,15 @@
     </div>
 </div>
 <div id="intro2" class="etage">
+    <div class="textBlock">
+        <h2>Cette marche est organisée par la coalition climat</h2>
+        <p>La coalition  climat est un regroupement
+            d'associations, de collectifs citoyens et
+            d'organisations syndicales</p>
+        <p>Retrouvez les associations qui la constituent dans le document <a href="/doc/FlyerCoalition.pdf">accessible ici.</a> Vous trouverez aussi les coordonnées de chacune d'elles.</p>
+    </div>
+</div>
+<div id="intro2" class="etage">
     <div class="imgBlock" style="min-width: 20rem;min-height: 45.6rem;">
         <img src="img/received_447526686086941.jpeg" border: grey 1px solid;/>
     </div>
