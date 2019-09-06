@@ -13,7 +13,7 @@
         <p>La coalition  climat est un regroupement
             d'associations, de collectifs citoyens et
             d'organisations syndicales</p>
-        <p>Retrouvez les associations qui la constituent dans le document <a href="/doc/FlyerCoalition.pdf">accessible ici.</a> Vous trouverez aussi les coordonnées de chacune d'elles.</p>
+        <p>Retrouvez les associations qui la constituent dans le document <a href="doc/FlyerCoalition.pdf">accessible ici.</a> Vous trouverez aussi les coordonnées de chacune d'elles.</p>
     </div>
 </div>
 <div id="intro2" class="etage">
