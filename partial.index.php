@@ -21,12 +21,12 @@
             <li>place Carnot</li>
         </ul> </p>
         <p>Arrivée à midi, friche Lucien, dans le cadre du Village Alternatiba</p>
+        <p>L'événement facebook est ici: <a href="https://www.facebook.com/events/651992861962787/">https://www.facebook.com/events/651992861962787/</a> </p>
         <h2>Cette marche est organisée par la coalition climat</h2>
         <p>La coalition  climat est un regroupement
             d'associations, de collectifs citoyens et
             d'organisations syndicales</p>
         <p>Retrouvez les associations qui la constituent dans le document <a href="doc/FlyerCoalition.pdf">accessible ici.</a> Vous trouverez aussi les coordonnées de chacune d'elles.</p>
-        <p>L'événement facebook est ici: <a href="https://www.facebook.com/events/651992861962787/">https://www.facebook.com/events/651992861962787/</a> </p>
         
     </div>
     <div class="imgBlock" style="min-width: 20rem;min-height: 45.6rem;">
