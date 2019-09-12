@@ -3,8 +3,7 @@
         <h2>Nouvelle marche organis&eacute;e &agrave; Rouen le samedi 21 septembre!!!</h2>
         <p>Une nouvelle marche est en préparation pour le samedi 21 septembre.</p>
         <p>Départ à 10h30 devant la gare de Rouen</p>
-        <p>Arrivée à midi, friche Lucien</p>
-        <p>Plus de détails bientôt, mais vous pouvez d'ores et déjà réserver votre date!!!</p>
+        <p>Arrivée à midi, friche Lucien, dans le cadre du Village Alternatiba</p>
         <h2>Cette marche est organisée par la coalition climat</h2>
         <p>La coalition  climat est un regroupement
             d'associations, de collectifs citoyens et
