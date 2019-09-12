@@ -3,6 +3,23 @@
         <h2>Nouvelle marche organis&eacute;e &agrave; Rouen le samedi 21 septembre!!!</h2>
         <p>Une nouvelle marche est en préparation pour le samedi 21 septembre.</p>
         <p>Départ à 10h30 devant la gare de Rouen</p>
+        <p>Puis:
+        <ul>
+            <li>rue Jeanne d'Arc</li>
+            <li>rue Jean Lecanuet</li>
+            <li>rue Beauvoisine</li>
+            <li>rue de l'Hôpital</li>
+            <li>rue de la République</li>
+            <li>rue d'Amiens</li>
+            <li>rue Armand Carrel</li>
+            <li>rue de Martainville</li>
+            <li>rue Victor Hugo</li>
+            <li>rue Alsace Lorraine (voies TEOR)</li>
+            <li>rue Grand Pont</li>
+            <li>pont Boieldieu</li>
+            <li>cours Clémenceau</li>
+            <li>place Carnot</li>
+        </ul> </p>
         <p>Arrivée à midi, friche Lucien, dans le cadre du Village Alternatiba</p>
         <h2>Cette marche est organisée par la coalition climat</h2>
         <p>La coalition  climat est un regroupement
