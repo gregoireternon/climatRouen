@@ -5,20 +5,25 @@
         <p>Départ à 10h30 devant la gare de Rouen</p>
         <p>Puis:
         <ul>
-            <li>rue Jeanne d'Arc</li>
-            <li>rue Jean Lecanuet</li>
-            <li>rue Beauvoisine</li>
-            <li>rue de l'Hôpital</li>
-            <li>rue de la République</li>
-            <li>rue d'Amiens</li>
-            <li>rue Armand Carrel</li>
-            <li>rue de Martainville</li>
-            <li>rue Victor Hugo</li>
-            <li>rue Alsace Lorraine (voies TEOR)</li>
-            <li>rue Grand Pont</li>
-            <li>pont Boieldieu</li>
-            <li>cours Clémenceau</li>
-            <li>place Carnot</li>
+<li>rue verte (gare de Rouen), </li>
+<li>boulevard de l'Yser </li>
+<li>rue Louis Ricard </li>
+<li>rue Bourg l'Abbé</li>
+<li>rue Orbe </li>
+<li>avenue de la porte des champs </li>
+<li>Place Saint-Vivien </li>
+<li>rue Armand Carrel </li>
+<li>rue Martainville </li>
+<li>rue Victor Hugo</li>
+<li>rue Alsace Lorraine</li>
+<li>rue de la république</li>
+<li>Quai Corneille</li>
+<li>Pont Boieldieu </li>
+<li>rue Saint Sever </li>
+<li>Cours Clemenceau </li>
+<li>Place Carnot</li>
+<li>Friche Lucien</li>
+
         </ul> </p>
         <p>Arrivée à midi, friche Lucien, dans le cadre du Village Alternatiba</p>
         <p>L'événement facebook est ici: <a href="https://www.facebook.com/events/651992861962787/">https://www.facebook.com/events/651992861962787/</a> </p>
