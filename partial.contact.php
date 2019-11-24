@@ -10,5 +10,12 @@
         <p><a href="https://www.facebook.com/CollectifCitoyenClimatRouen/">Il est encore temps - Rouen</a></p>
     </div>
 </div>
+<div id="etage1" class="etage">
+    <div class="textBlock">
+        <h2>Sur twitter:</h2>
+        <p><a href="https://twitter.com/CplcRouen/">@CplcRouen</a></p>
+    </div>
+</div>
+
 
     
