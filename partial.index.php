@@ -18,7 +18,7 @@
 </div>
 
 <div id="boxes">
-    <div class="box evenementLink " id="evenementLink2"><a href="evenements.php"><img src="img/events.PNG" class="button"></a></div>
+    <div class="box evenementLink 123" id="evenementLink2"><a href="evenements.php"><img src="img/events.PNG" class="button"></a></div>
     <div class="box liensLink" id="liensLink2"><a href="liens.php"><img src="img/links.PNG"  class="button"></a></div>
     <div class="box"><a href="https://www.facebook.com/groups/271172083511190/"><img src="img/facebook.PNG"  class="button"></a></div>
 </div>
